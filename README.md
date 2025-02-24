@@ -6,5 +6,7 @@
 - Use fresh combos 
 - By : @i6iii1
 
-- GLITCH ![images](https://github.com/user-attachments/assets/77b2bb7a-5a71-p430a-9908-8c4b6fd4fdb1)
-![f570a149b92135679418b02083aa2c3d](https://github.com/user-attachments/assets/1ee8971e-dc4e-44fd-8251-9fb100c42228)
+- GLITCH
+- ![f570a149b92135679418b02083aa2c3d](https://github.com/user-attachments/assets/6c403c1c-aa04-4d00-8ea6-f2b7acb0f614)
+![eac3f7c14d06dcac97664c045a734af5](https://github.com/user-attachments/assets/55e0dabd-64a4-4ddc-8310-6418d0739986)
+
